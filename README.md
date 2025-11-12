@@ -1,21 +1,20 @@
 # Hi there 👋
 
-I'm Mohammad, a versatile developer and security researcher with a strong background in computer engineering.  
-I enjoy working on projects that combine **Linux systems, security vulnerability analysis, and clean digital design**.  
+I'm Mohammad, focused on Linux systems and security research.  
+I work on projects that involve **troubleshooting, vulnerability analysis, and professional reporting**.  
 
-## 🔧 Skills & Tools
-- Linux troubleshooting & kernel module debugging  
-- Security vulnerability classification & CVSS scoring  
-- Professional reporting & documentation  
-- Minimalist annotation tools (Flameshot, Ksnip) for polished screenshots   
+## 🔧 Skills
+- Linux system configuration & debugging  
+- Vulnerability classification & CVSS scoring  
+- Clear documentation & technical reporting  
 
 ## 🚀 What I Do
-- Analyze and report security vulnerabilities with industry-standard accuracy  
-- Build and configure Linux-friendly workflows for productivity and clarity  
-- Create professional documentation and digital assets for technical and creative projects  
+- Identify and report security issues with accuracy  
+- Build efficient Linux workflows for productivity  
+- Deliver professional documentation for technical projects  
 
-## 📫 Let's Connect
-Regular communication and collaboration are important to me.  
-Feel free to reach out if you’re interested in working together or exploring new ideas!
+## 📫 Contact
+I value clear communication and collaboration.  
+Feel free to connect if you’re interested in working together.
 
 📧 E-Mail : mohammadkalhori@protonmail.com
