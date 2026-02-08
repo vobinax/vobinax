@@ -17,4 +17,4 @@ I work on projects that involve **troubleshooting, vulnerability analysis, and p
 I value clear communication and collaboration.  
 Feel free to connect if you’re interested in working together.
 
-📧 E-Mail : mohammadkalhori@protonmail.com
+📧 E-Mail : mk0o@yahoo.com
